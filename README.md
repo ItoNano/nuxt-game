@@ -28,4 +28,5 @@ $ npx create-nuxt-app nuxt-game
 ```bash
 yarn add -D sass sass-loader@10
 ```
+
 [参考サイト](https://ma-vericks.com/nuxt-scss/)
