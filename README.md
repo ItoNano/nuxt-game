@@ -30,3 +30,14 @@ yarn add -D sass sass-loader@10
 ```
 
 [参考サイト](https://ma-vericks.com/nuxt-scss/)
+
+## firebase導入
+### プロジェクト作成
+[参考サイト](https://qiita.com/ref3000/items/866cb2fab2c6e3605455)
+
+### プロジェクトに導入
+
+```bash
+yarn add -D firebase @nuxtjs/firebase
+```
+[参考サイト](https://qiita.com/itouuuuuuuuu/items/14f8d2ce1eb668e13169)
