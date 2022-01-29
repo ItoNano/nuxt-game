@@ -1,0 +1,13 @@
+.globalHeader {
+    display: fixed;
+    top: 0;
+    height: 10vw;
+    background: $main;
+    .globalHeader__label {
+        color: $white;
+        @include flex($justify: flex-start);
+        font-size: 5vw;
+        height: 100%;
+        margin: 0 20px;
+    }
+}
